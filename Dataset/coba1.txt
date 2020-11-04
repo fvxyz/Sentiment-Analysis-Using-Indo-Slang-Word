@@ -1,0 +1,13 @@
+Keparat.	0
+Bagus sekali.	1
+Alhamdulillah baik.	1
+Bacot lu anjing!	0
+Keren banget.	1
+Kenapa kita tidak bertengkar saja?	0
+Kalau berperang lebih baik, kenapa tidak?	0
+Mantab jiwa!	1
+Anjing!	0
+Bangsat!.	0
+Benar, ini sangat enak.	1
+Aku siap menolongmu!	1
+Diam, atau pergi!	0
